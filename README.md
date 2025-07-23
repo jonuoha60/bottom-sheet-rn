@@ -1,4 +1,4 @@
-
+### Bottom Sheet React Native
 A customizable and performant Bottom Sheet component for React Native using Expo.
 
 ---
